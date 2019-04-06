@@ -1,9 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-Будет удалено .idea/compiler.xml
-Будет удалено .idea/encodings.xml
-Будет удалено .idea/misc.xml
-Будет удалено .idea/workspace.xml
-Будет удалено pom.xml
-Будет удалено rest_web_client.iml
-Будет удалено src/
-Будет удалено target/
+# IntelliJ project files
+.idea
+*.iml
